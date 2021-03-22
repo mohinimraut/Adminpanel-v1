@@ -1,0 +1,148 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+div#listingitems {
+  font: normal normal normal 20px Roboto;
+  letter-spacing: 0px;
+  color: #2c3d63;
+  opacity: 1;
+}
+
+div#listingitems:hover {
+  color: white;
+  border-bottom: none;
+}
+a#shoplistcollecont:hover {
+  background-color: #2c3d63;
+  color: white;
+}
+#shoplistingdetails {
+  color: white;
+}
+
+.note {
+  text-align: center;
+  height: 80px;
+  background: -webkit-linear-gradient(left, #2c3d63,#2c3d63);
+  color: #fff;
+  font-weight: bold;
+  line-height: 80px;
+}
+
+.form-control {
+  border-radius: 1.5rem;
+}
+.register-form {
+  margin-top: 2rem;
+}
+@media (min-width: 280px) and (max-width: 349.98px) {
+  #btnaddcrtshp {
+    border: none;
+    border-radius: 1.5rem;
+    width: 32%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    float: center;
+  }
+}
+@media (min-width: 350px) and (max-width: 424.98px) {
+  #btnaddcrtshp {
+    border: none;
+    border-radius: 1.5rem;
+    width: 27%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    float: center;
+  }
+}
+@media (min-width: 425px) and (max-width: 575.98px) {
+  #btnaddcrtshp {
+    border: none;
+    border-radius: 1.5rem;
+    width: 23%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    float: center;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #btnaddcrtshp {
+    border: none;
+    border-radius: 1.5rem;
+    width: 18%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    float: center;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #btnaddcrtshp {
+    border: none;
+    border-radius: 1.5rem;
+    width: 14%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    float: center;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  #btnaddcrtshp {
+    border: none;
+    border-radius: 1.5rem;
+    width: 13%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    float: center;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1920px) {
+  #btnaddcrtshp {
+    border: none;
+    border-radius: 1.5rem;
+    width: 10%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    float: center;
+  }
+}
+
+@media (min-width: 1920.1px) and (max-width: 2560px) {
+  #btnaddcrtshp {
+    border: none;
+    border-radius: 1.5rem;
+    width: 10%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    float: center;
+  }
+}
+
+@media (min-width: 2560.1px) {
+  #btnaddcrtshp {
+    border: none;
+    border-radius: 1.5rem;
+    width: 10%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    float: center;
+  }
+}
+

@@ -1,0 +1,63 @@
+@media (min-width: 350px) and (max-width: 424.98px) {
+    #navblue{
+       
+    }
+    #brandlogo{
+     font-size: 20px;
+     margin-left: -9rem;
+     font-weight: bold;
+    }  
+}
+@media (min-width: 280px) and (max-width: 349.98px) {
+    #navblue{
+        
+    }
+    #brandlogo{
+     font-size: 19px;
+     margin-left: -8rem;
+     font-weight: bold;
+    }  
+}
+@media (min-width: 425px) and (max-width: 576px) {
+    #navblue{
+        width:425px;
+    }
+    #brandlogo{
+     font-size: 20px;
+     margin-left: -10rem;
+     font-weight: bold;
+    }   
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    #navblue{
+        width:600px;
+    }
+    #brandlogo{
+     font-size: 20px;
+     margin-left: -10rem;
+     font-weight: bold;
+    }    
+}
+
+@media (min-width: 1200px) and (max-width: 1920px) {
+  #brandlogo{
+  margin-left: -48rem;
+ 
+  }
+}
+
+@media (min-width: 1920.98px) and (max-width: 2560px) {
+    #brandlogo{
+        margin-left: -63rem;
+        }  
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #brandlogo{
+        margin-left: -20rem;
+        }     
+}
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    #brandlogo{
+        margin-left: -25rem;
+        }   
+}

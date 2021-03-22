@@ -1,0 +1,525 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+@media (min-width: 280px) and (max-width: 349.98px) {
+  #addtextbtn{
+    margin-left: -7px;
+  }
+  #backtextbtn{
+    margin-left: -9px;
+  }
+  #shopcardproduct{
+    width:18.5rem;
+    height:3rem;
+  }
+  #titleproductdetails{
+    font-size: 25px;
+    color:#2C3D63;
+    font-family: roboto;
+  }
+  #addproductcontainer{
+    margin-top: 10px;
+  }
+  #addproductform{
+    border:1px solid black;
+    border-radius: 5px;
+  }
+  #btnback{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 9px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 8px;
+    font-family: roboto;
+  }
+  #btnaddprdct{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 9px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+   
+  }
+  #titleshopname{
+    font-size: 20px;
+    font-family: roboto;
+
+  }
+  #shopcardproduct{
+    width:25rem;
+    height:3rem;
+    margin-top: -4rem;
+    margin-left: -3.2rem;
+  }
+  #productlisttable{
+    margin-left: -4rem;
+  }
+}
+
+@media (min-width: 350px) and (max-width: 424.98px) {
+  #addtextbtn{
+    margin-left: -3px;
+  }
+  #backtextbtn{
+    margin-left: -7px;
+  }
+  #titleproductdetails{
+    font-size: 25px;
+    color:#2C3D63;
+    font-family: roboto;
+  }
+  #addproductcontainer{
+    margin-top: 10px;
+  }
+  #addproductform{
+    border:1px solid black;
+    border-radius: 5px;
+  }
+  #btnback{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 10px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 8px;
+    font-family: roboto;
+  }
+  #btnaddprdct{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 10px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #titleshopname{
+    font-size: 20px;
+    font-family: roboto;
+
+  }
+  #shopcardproduct{
+    width:25rem;
+    height:3rem;
+    margin-top: -4rem;
+    margin-left: -3.2rem;
+  }
+  #productlisttable{
+    margin-left: -4rem;
+  }
+}
+
+@media (min-width: 425px) and (max-width: 575.98px) {
+  #addtextbtn{
+    margin-left: -3px;
+  }
+  #backtextbtn{
+    margin-left: -5px;
+  }
+  #titleproductdetails{
+    font-size: 25px;
+    color:#2C3D63;
+    font-family: roboto;
+  }
+  #addproductcontainer{
+    margin-top: 10px;
+  }
+  #addproductform{
+    border:1px solid black;
+    border-radius: 5px;
+  }
+  #btnback{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 10px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #btnaddprdct{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 10px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #titleshopname{
+    font-size: 20px;
+    font-family: roboto;
+
+  }
+  #shopcardproduct{
+    width:25rem;
+    height:3rem;
+    margin-top: -4rem;
+    margin-left: -3.2rem;
+  }
+  #productlisttable{
+    margin-left: -4rem;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #titleproductdetails{
+    font-size: 25px;
+    color:#2C3D63;
+    font-family: roboto;
+  }
+  #addproductcontainer{
+    margin-top: 10px;
+  }
+  #addproductform{
+    border:1px solid black;
+    border-radius: 5px;
+  }
+  #btnback{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #btnaddprdct{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #titleshopname{
+    font-size: 20px;
+    font-family: roboto;
+
+  }
+  #shopcardproduct{
+    width:37rem;
+    height:3rem;
+    margin-top: -4rem;
+    margin-left: -4rem;
+  }
+  #productlisttable{
+    margin-left: -7rem;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  
+  #titleproductdetails{
+    font-size: 25px;
+    color:#2C3D63;
+    font-family: roboto;
+  }
+  #addproductcontainer{
+    margin-top: 10px;
+  }
+  #addproductform{
+    border:1px solid black;
+    border-radius: 5px;
+  }
+  #btnback{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #btnaddprdct{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #titleshopname{
+    font-size: 20px;
+    font-family: roboto;
+
+  }
+  #shopcardproduct{
+    width:37rem;
+    height:3rem;
+    margin-top: -4rem;
+    margin-left: -4rem;
+  }
+  #productlisttable{
+    margin-left: -7rem;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  #titleproductdetails{
+    font-size: 25px;
+    color:#2C3D63;
+    font-family: roboto;
+  }
+  #addproductcontainer{
+    margin-top: 10px;
+  }
+  #addproductform{
+    border:1px solid black;
+    border-radius: 5px;
+  }
+  #btnback{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #btnaddprdct{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #titleshopname{
+    font-size: 20px;
+    font-family: roboto;
+
+  }
+  #shopcardproduct{
+    width:37rem;
+    height:3rem;
+    margin-top: -4rem;
+    margin-left: -4rem;
+  }
+  #productlisttable{
+    margin-left: -14rem;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1920px) {
+  #titleproductdetails{
+    font-size: 25px;
+    color:#2C3D63;
+    font-family: roboto;
+  }
+  #addproductcontainer{
+    margin-top: 10px;
+  }
+  #addproductform{
+    border:1px solid black;
+    border-radius: 5px;
+  }
+  #btnback{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #btnaddprdct{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #titleshopname{
+    font-size: 20px;
+    font-family: roboto;
+
+  }
+  #shopcardproduct{
+    width:38rem;
+    height:3rem;
+    margin-top: -4rem;
+    margin-left: 3.2rem;
+  }
+  #productlisttable{
+    margin-left: -14rem;
+  }
+}
+
+@media (min-width: 1920.98px) and (max-width: 2560px) {
+  #titleproductdetails{
+    font-size: 25px;
+    color:#2C3D63;
+    font-family: roboto;
+  }
+  #addproductcontainer{
+    margin-top: 10px;
+  }
+  #addproductform{
+    border:1px solid black;
+    border-radius: 5px;
+  }
+  #btnback{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #btnaddprdct{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #titleshopname{
+    font-size: 20px;
+    font-family: roboto;
+
+  }
+  #shopcardproduct{
+    width:38rem;
+    height:3rem;
+    margin-top: -4rem;
+    margin-left: 6rem;
+  }
+  #productlisttable{
+    margin-left: -35rem;
+  }
+}
+@media (min-width: 2560.98px) {
+  #titleproductdetails{
+    font-size: 25px;
+    color:#2C3D63;
+    font-family: roboto;
+  }
+  #addproductcontainer{
+    margin-top: 10px;
+  }
+  #addproductform{
+    border:1px solid black;
+    border-radius: 5px;
+  }
+  #btnback{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #btnaddprdct{
+    border: none;
+    border-radius:10px;
+    width: 15%;
+    cursor: pointer;
+    background: #2c3d63;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 1rem;
+    margin:3px;
+    margin-bottom: 10px;
+    font-family: roboto;
+  }
+  #titleshopname{
+    font-size: 20px;
+    font-family: roboto;
+
+  }
+  #shopcardproduct{
+    width:38rem;
+    height:3rem;
+    margin-top: -4rem;
+    margin-left: 6rem;
+  }
+  #productlisttable{
+    margin-left: -35rem;
+  }
+}
